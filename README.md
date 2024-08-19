@@ -12,6 +12,7 @@ Learning: Web Development
 **📚 Current Focus**
 
 Mastering Data Structures & Algorithms: Solving complex problems and improving my problem-solving skills.
+
 Building Projects: Applying what I learn through practical coding projects and contributing to open-source initiatives.
 
 **🌱 Goals**
