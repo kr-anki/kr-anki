@@ -24,4 +24,6 @@ To build innovative and impactful software solutions.
 I’m always open to collaboration, mentorship, and discussing new tech trends. You can connect with me here:
 
 LinkedIn: https://www.linkedin.com/in/kr-anki/
+
+
 Thank you for visiting my GitHub profile! 🚀
