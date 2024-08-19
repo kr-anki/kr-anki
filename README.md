@@ -17,8 +17,14 @@ Building Projects: Applying what I learn through practical coding projects and c
 🌱 Goals
 
 To continuously improve my coding skills and understanding of computer science.
+
+
 To contribute to open-source projects and collaborate with the tech community.
+
+
 To build innovative and impactful software solutions.
+
+
 🤝 Let's Connect
 
 I’m always open to collaboration, mentorship, and discussing new tech trends. You can connect with me here:
